@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a349eab497be55104ba13766f053afa5" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="Test field" max_length="80" name="test_field" type="field_name"/>
+    </element>
+</database>
